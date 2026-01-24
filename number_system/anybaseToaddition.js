@@ -7,7 +7,6 @@ function anybaseToaddition(num1, num2, base) {
     let ans = 0 ;
 
     while (num1>0 || num2>0 || carry>0) {
-
         let rem1 = num1%10;
         let rem2 = num2%10;
 
