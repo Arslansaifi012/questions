@@ -17,5 +17,3 @@ function decimalToanybase(num, base) {
 };
 
 console.log(decimalToanybase(19, 8));
-
-
